@@ -1,4 +1,5 @@
-Detection of Knee Arthritis Using Multiple Machine Learning Models
+***Detection of Knee Arthritis Using Multiple Machine Learning Models***
+
 📘 Overview
 
 This project aims to automate the diagnosis of Knee Osteoarthritis (KOA) using deep learning techniques on X-ray images. Manual interpretation is often subjective and time-consuming — our solution leverages multiple ML architectures to classify arthritis into five severity levels: Normal, Doubtful, Mild, Moderate, and Severe.
