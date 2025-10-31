@@ -80,21 +80,4 @@ The system assists healthcare professionals by providing **faster, more accurate
 **Libraries:** NumPy, Pandas, OpenCV, scikit-learn, Matplotlib
 **Tools:** Jupyter Notebook, PyCharm, Google Colab
 
----
 
-## 👩‍💻 Authors
-
-**Richa Sudin Desai** — Master’s in Business Analytics, USC Marshall School of Business
-**Sachita Manna** — B.Tech, Electrical & Electronics Engineering, VIT
-**Faculty Guide:** Dr. Tapan Prakash
-
----
-
-## 📚 References
-
-Published Study: *“Detection of Knee Arthritis using Multiple Machine Learning Models”*
-*(Capstone Research Project, 2025)*
-
----
-
-Would you like me to make this **portfolio-optimized** version (with emojis and a banner image at the top, e.g., a knee X-ray visualization header) — or keep it in a **technical academic style** (good for Zenodo or Kaggle)?
